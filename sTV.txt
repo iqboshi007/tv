@@ -1,3 +1,8 @@
+▣广西频道▣,#genre#
+广西影视1,http://110.72.85.123:808/hls/201/index.m3u8
+广西影视2,http://221.7.175.154:8445/tsfile/live/1024_1.m3u8
+广西影视3,http://116.9.204.242:9901/tsfile/live/0124_1.m3u8
+
 ▣北京移动▣,#genre#
 
 CCTV-1综合,http://tgtg.freeddns.org:8888/rtp/239.3.1.129:8008
