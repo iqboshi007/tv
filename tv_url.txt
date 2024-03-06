@@ -2,3 +2,11 @@ https://gh.con.sh/https://raw.githubusercontent.com/iqboshi007/tv/main/sTV.txt
 https://mirror.ghproxy.com/raw.githubusercontent.com/iqboshi007/tv/main/sTV.txt
 https://mirrors.chenby.cn/https://raw.githubusercontent.com/iqboshi007/tv/main/sTV.txt
 https://raw.gitmirror.com/iqboshi007/tv/main/sTV.txt
+https://gh.con.sh/https://raw.githubusercontent.com/iqboshi007/tv/main/ysj.json
+https://mirror.ghproxy.com/raw.githubusercontent.com/iqboshi007/tv/main/ysj.json
+https://mirrors.chenby.cn/https://raw.githubusercontent.com/iqboshi007/tv/main/ysj.json
+https://raw.gitmirror.com/iqboshi007/tv/main/ysj.json
+https://gh.con.sh/https://raw.githubusercontent.com/iqboshi007/tv/main/zby.txt
+https://mirror.ghproxy.com/raw.githubusercontent.com/iqboshi007/tv/main/zby.txt
+https://mirrors.chenby.cn/https://raw.githubusercontent.com/iqboshi007/tv/main/zby.txt
+https://raw.gitmirror.com/iqboshi007/tv/main/zby.txt
